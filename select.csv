@@ -1,11 +1,11 @@
-"article_id","nom","proto_article_id","prix_total","quantite","marge","prix","commande_id"
-272005,Feuilletés au Végé-Pâté et au Confit d'oignons,1,6.32,1,0.82,5.50,360009
-215046,Tisane de thé du Labrador ,2,4.60,1,0.60,4.00,360017
-367004,Gelée de pommes,3,4.60,1,0.60,4.00,360017
-249050,Tire d'érable,4,6.84,1,0.89,5.95,360017
-325075,Fromage en bloc,7,4.02,1,0.52,3.50,355034
-249137,Osso Buco (jarret de veau),8,9.68,1,1.26,8.42,360025
-295005,Centre de table en germination sur réservation pour Noel 2018,9,8.05,1,1.05,7.00,365032
-247040,Cassoulet au Canard,10,23.00,1,3.00,20.00,362048
-193010,Don pour la Sécurité alimentaire,11,5.00,1,0.65,4.35,367052
-310012,CUBES DE PORC,12,4.02,1,0.52,3.50,367052
+"article_id","nom","proto_article_id","prix_total","quantite","marge","prix","commande_id","categorie"
+272005,Feuilletés au Végé-Pâté et au Confit d'oignons,1,6.32,1,0.82,5.50,360009,Mets préparés
+215046,Tisane de thé du Labrador ,2,4.60,1,0.60,4.00,360017,Boissons
+367004,Gelée de pommes,3,4.60,1,0.60,4.00,360017,"Confitures, tartinades et miel"
+249050,Tire d'érable,4,6.84,1,0.89,5.95,360017,"Chocolat, érable et confiserie"
+325075,Fromage en bloc,7,4.02,1,0.52,3.50,355034,Fromages et produits laitiers
+249137,Osso Buco (jarret de veau),8,9.68,1,1.26,8.42,360025,Viandes
+295005,Centre de table en germination sur réservation pour Noel 2018,9,8.05,1,1.05,7.00,365032,Légumes et herbes
+247040,Cassoulet au Canard,10,23.00,1,3.00,20.00,362048,Mets préparés
+193010,Don pour la Sécurité alimentaire,11,5.00,1,0.65,4.35,367052,Dons pour la Sécurité alimentaire
+310012,CUBES DE PORC,12,4.02,1,0.52,3.50,367052,Viandes
